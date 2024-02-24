@@ -5,7 +5,7 @@ Welcome to my React Projects Repository! Here, you'll find a collection of proje
 ## Projects
 
 - **Project 1:** [Pizza menu]
-- **Project 2:** [Project Name]
+- **Project 2:** [Steps]
 - **Project 3:** [Project Name]
 
 
