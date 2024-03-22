@@ -7,6 +7,7 @@ Welcome to my React Projects Repository! Here, you'll find a collection of proje
 - **Project 1:** [Pizza menu]
 - **Project 2:** [Steps]
 - **Project 3:** [travil list]
+- **Project 4:** [Eat N Split]
 
 
 ## Getting Started
