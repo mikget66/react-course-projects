@@ -24,7 +24,6 @@ If you're interested in exploring these projects or running them locally, follow
 
 - [Jonas Schmedtmann's React Course](https://www.udemy.com/share/108PTK3@watBfdm8-e1GC0c9KQub5Gvbhhld7wyjW-dokpovY7oWwVvuw2go4TvtZpVlyIDMPA==/) - Link to the course that I'm following.
 - [React Documentation](https://reactjs.org/docs/getting-started.html) - Official documentation for React.
-- *Add any additional resources that were helpful during your learning journey*
 
 
 ## Acknowledgements
