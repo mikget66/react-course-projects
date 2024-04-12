@@ -80,8 +80,6 @@ usepopcorn/
 
   - The `hooks` directory contains custom hooks created for encapsulating and reusing logic.
 
-  - The `utils` directory contains utility functions or helper modules used in the project.
-
   - The `App.js` file is the root component of the application.
 
   - The `index.js` file is the entry point for React, where the ReactDOM renders the `App` component into the DOM.
@@ -103,9 +101,5 @@ Before contributing, it's recommended to open an issue to discuss the proposed c
 ## License
 
 The usepopcorn project is open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT). You can freely use, modify, and distribute the codebase following the terms of the license.
-
-## Credits
-
-The usepopcorn project was created by [Your Name] and is based on the knowledge and experience gained from various React learning resources and the React community.
 
 Enjoy learning and building with usepopcorn! Happy coding!
