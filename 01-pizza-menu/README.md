@@ -17,7 +17,7 @@ As a React beginner, this project provides an opportunity to learn and practice 
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run after installing the packages:
 
 ### `npm start`
 
